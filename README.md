@@ -1,7 +1,9 @@
 Student Depression Analysis Dashboard
+
 Dashboard Link
 https://public.tableau.com/app/profile/adarsh.prajapati5912/viz/StudentDepressionAnalysis_17732306495530/StudentCountAnalysis?publish=yes
-Problem Statement
+
+Problem Statement\
 This dashboard is created to analyze factors that affect student depression based on various parameters such as academic pressure, satisfaction level of students with their studies, hours of sleep, dietary habits, financial problems, and family history of mental illness.
 
 The main aim of this analysis is to identify patterns of student depression and determine key factors that lead to mental illness in students.
