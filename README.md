@@ -82,6 +82,7 @@ Technologies Used
 SQL Server – Data cleaning and data preprocessing
 Tableau Desktop – Data visualization
 Tableau Public – Data visualization and sharing
+
 Dataset
 This data set includes various attributes related to students' lifestyles and depression levels. The data includes:
 
@@ -95,6 +96,7 @@ Study Hours
 Financial Stress
 Family History of Mental Illness
 Depression Indicator
+
 Conclusion
 This project shows how data analysis and visualization techniques can be used to derive valuable insights into student mental health. By determining key factors related to depression, this analysis reveals areas where interventions and support structures may help to address student mental health.
 
