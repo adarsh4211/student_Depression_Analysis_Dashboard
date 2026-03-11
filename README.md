@@ -71,7 +71,7 @@ Various data visualizations have been created to identify relationships between 
 ---
 
 # Snapshot of Dashboard
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot](Dashboard.png)
 
 ## Insights
 Based on the analysis dashboard, it is possible to make the following key observations.
