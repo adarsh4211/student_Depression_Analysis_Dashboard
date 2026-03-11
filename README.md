@@ -69,6 +69,18 @@ The cleaned data set has been linked to **Tableau Desktop** to create various da
 Various data visualizations have been created to identify relationships between various aspects of a student’s lifestyle and depression.
 
 ---
+# Snapshot of Dashboard
+Student Depression Dataset
+        ↓
+SQL Server Data Cleaning
+        ↓
+Data Transformation
+        ↓
+Tableau Dashboard
+        ↓
+Insights & Visualization
+
+---
 
 # Snapshot of Dashboard
 ![Dashboard Screenshot](Dashboard.png)
